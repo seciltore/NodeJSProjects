@@ -1,0 +1,15 @@
+node_modules
+coverage
+.env
+.webpack
+.serverless
+.env*
+npm-debug.log
+yarn-error.log
+.DS_Store
+config.yml
+db/config.js
+db/backup
+dump.rdb
+schemaspy
+.vscode/settings.json
